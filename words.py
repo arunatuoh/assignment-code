@@ -1,0 +1,5 @@
+str=input("enter a long stings:")
+new_str=str.split()
+new_str.reverse()
+new_str=" ".join(new_str)
+print(new_str)
